@@ -128,13 +128,13 @@
         <ul class="social-list">
 
           <li class="social-item">
-            <a href="https://github.com/priyanshusvt-dev" class="social-link" target="_blank">
+            <a href="https://github.com/priyanshusvt-dev" class="social-link">
               <ion-icon name="logo-github"></ion-icon>
             </a>
           </li>
 
           <li class="social-item">
-            <a href="https://www.linkedin.com/in/priyanshu-srivastava-988118244/" class="social-link" target="_blank">
+            <a href="https://www.linkedin.com/in/priyanshu-srivastava-988118244/" class="social-link">
               <ion-icon name="logo-linkedin"></ion-icon>
             </a>
           </li>
